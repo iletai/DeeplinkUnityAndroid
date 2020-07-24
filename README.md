@@ -134,4 +134,4 @@ Testing
 </html>
 ```
 
-Result success when you click tag a in html file. File will open your app unity was build in device. And show link by storage if that trigger from deeplink
+Result success when you click tag a in html file. File will open your app unity was build in device. And show link by storage if that trigger from deeplink. And package of this sample here: [Release](https://github.com/iletai/DeeplinkUnityAndroid/releases/tag/0.0.1)
