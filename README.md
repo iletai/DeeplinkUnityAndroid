@@ -53,8 +53,6 @@ a	mobile	device	will	open the	application	in	question	and	show the linked conten
 the	user.	If	the	application was	not	already	installed	on	the	system,	app	store	page	
 will	be	presented	to	the	user	as	illustrated	
 
-After build dll file. We need copy it to Unity. I recommend using Batscripts to save time
- 
 
 ### Flow function
 
